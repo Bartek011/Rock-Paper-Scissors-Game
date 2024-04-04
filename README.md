@@ -16,7 +16,7 @@ The code was inspired by these tutorials:
 <img src="https://i.imgur.com/wp5pc5c.png" alt="real" width="1024" height="576" style="display: block; margin: 0 auto;\">
 
 # How to play?
-Simply run code (webcam is required) and press "s", then your move should be recognized as shown above. Have fun :)
+Simply run code (webcam is required) and press "s", then your move should be recognized as shown above. Have fun 😄
 
 
 
